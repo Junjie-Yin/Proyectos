@@ -1,0 +1,4 @@
+#Datos de puntuaciones
+# test1 puntuaciones ...................... S1 S2 S3... formato
+#
+test1puntuaciones ...................... 62 48
